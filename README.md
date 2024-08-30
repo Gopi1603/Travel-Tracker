@@ -1,29 +1,29 @@
-# Travel Tracker
+# 🌍 Travel Tracker
 
-Travel Tracker is a simple web application built with Node.js, Express, and PostgreSQL that allows users to track the countries they have visited.
+Travel Tracker is a simple web application built with Node.js, Express, and PostgreSQL that allows users to track the countries they have visited.✈️
 
 ## Features
 
-- View a list of countries that you have visited.
-- Add new countries to your visited list.
-- Automatically updates the total number of countries visited.
-- User-friendly interface with EJS templating.
+- 📋 View a list of countries that you have visited.
+- ➕ Add new countries to your visited list.
+- 🔢 Automatically updates the total number of countries visited.
+- 🖥️ User-friendly interface with EJS templating.
 
 ## Technologies Used
 
-- Node.js
-- Express
-- PostgreSQL
-- EJS
-- Body-parser
-- CSS
+- 🟢 Node.js
+- 🚂 Express
+- 🗄️ PostgreSQL
+- 🧩 EJS
+- 🛠️ Body-parser
+- 🎨 CSS
 
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your local machine:
 
-- [Node.js](https://nodejs.org/)
-- [PostgreSQL](https://www.postgresql.org/)
+- [Node.js](https://nodejs.org/) 🌐
+- [PostgreSQL](https://www.postgresql.org/) 📊
 
 ## Installation
 
@@ -75,5 +75,10 @@ node index.js
 ```
 Visit http://localhost:3000 in your browser to view the application
 
-## footerr
-thanks 
+## Contact Me
+
+If you would like to get in touch, feel free to [visit my portfolio](https://mgopiportfolios.netlify.app/).
+
+---
+
+<sub><sup>✨ Crafted with ❤️ by [Gopi](https://github.com/Gopi1603) ✨</sup></sub>
