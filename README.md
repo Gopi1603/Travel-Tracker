@@ -1,6 +1,11 @@
 # 🌍 Travel Tracker
 
 Travel Tracker is a simple web application built with Node.js, Express, and PostgreSQL that allows users to track the countries they have visited.✈️
+## Preview
+
+Here's what the Travel Tracker website looks like:
+
+![Travel Tracker Preview](preview.png)
 
 ## Features
 
